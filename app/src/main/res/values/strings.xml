@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UniversitySync</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- drawer opened / closed -->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_groups">My Groups</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="notes">Notes</string>
+    <string name="articles">Articles</string>
+    <string name="files">Files</string>
+
+</resources>
